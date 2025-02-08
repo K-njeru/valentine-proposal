@@ -175,7 +175,7 @@ function App() {
             animate={{ scale: 1 }}
             transition={{ duration: 0.5, type: "spring" }}
           >
-            Hello Faith Touch Anywhere To Begin 💖
+            Hello Faith, <br /> Touch Anywhere To Begin 💖
           </motion.div>
         </div>
       ) : (
